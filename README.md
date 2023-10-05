@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Olá, eu sou a Luiza! :woman::bar_chart:
 
 Sou uma apaixonada por dados e estou empolgada em compartilhar meu conhecimento e projetos com você.
